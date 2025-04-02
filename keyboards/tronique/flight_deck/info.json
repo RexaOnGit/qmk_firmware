@@ -157,7 +157,7 @@
         "usb_detect": {
             "enabled": true,
             "polling_interval": 10,
-            "timeout": 2000
+            "timeout": 1000
         }
     },
     "debounce": 5,
