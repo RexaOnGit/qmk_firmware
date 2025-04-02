@@ -142,7 +142,7 @@
     "split": {
         "enabled": true,
         "serial": {
-            "driver": "usart"
+            "driver": "vendor"
         },
         "transport": {
             "protocol": "serial",
