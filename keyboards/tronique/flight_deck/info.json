@@ -149,7 +149,8 @@
             "sync": {
                 "detected_os": true,
                 "layer_state": true,
-                "modifiers": true
+                "modifiers": true,
+                "indicators": true
             },
             "watchdog": true,
             "watchdog_timeout": 2000
